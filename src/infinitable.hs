@@ -1,3 +1,14 @@
+{- |
+Module      :  Infinitable
+Description :  Provides a datatype and instances for possibly-infinite numbers, designed to wrap any unbounded numeric type.
+Copyright   :  (c) 2013 Kenneth Foner
+License     :  The MIT License (MIT)
+
+Maintainer  :  kenny.foner@gmail.com
+Stability   :  experimental
+Portability :  portable
+-}
+
 module Infinitable where
 
 import Data.Ord
